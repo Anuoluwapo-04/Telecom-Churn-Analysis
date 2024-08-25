@@ -5,21 +5,20 @@
 
 This data analysis project aims to uncover insights into customer churn rates at a telecom company. By examining different aspects of customer data, I aim to identify trends, provide data-driven recommendations, and gain a deeper understanding of the factors contributing to customer churn.
 
+### Table of Content
+- [Project goal](#project-goal)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [ETL Process on SQL Server](#etl-process-on-sql-server)
+- [Data Visualization](#data-visualization)
+- [Results](#results)
+- [Recommendations](#recommendations)
+
 ### Project Goal.
 Develop a complete ETL process in a database and a Power BI dashboard to leverage customer data and achieve the following goals.
 1. Analyze customer data at the below levels- Gender, age group, payment and account info, services and so on.
 2. Metrics required - Total Customers, Total churn, Churn rate, New joiners.
-
-### Table of Content
-- Data Source
-- Tools
-- ETL Process on SQL Server
-- Data Visualization
-- Results
-- Recommendations
-  
-  
-  
+ 
 ### Data Source.
 
 Customer Data: The primary dataset used for this analysis is the "Customer_Data.csv" file, with 6,418 rows and 32 columns of customers details.
