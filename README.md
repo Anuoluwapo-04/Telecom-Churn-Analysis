@@ -89,6 +89,8 @@ Here are some of the DAX formulas used to calculate the KPIs:
 
 ![image](https://github.com/user-attachments/assets/7dafe1da-de77-4062-9850-1495b520f737)
 
+- A tooltip(Churn Reason) was added to "Total Churn by Churn Category"
+
 ### Results
 The analysis results were summarized as follows:
 - High Churn Rate: 27% of customers were leaving.
